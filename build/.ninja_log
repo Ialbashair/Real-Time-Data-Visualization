@@ -1,0 +1,9 @@
+# ninja log v6
+211	1788	1761583315313523376	CMakeFiles/DataVisualizer.dir/DataGenerator.cpp.o	755e5bf8fb3e2a43
+211	2217	1761583315313373955	CMakeFiles/DataVisualizer.dir/main.cpp.o	db18031e90c6b637
+2218	2550	1761583317318773579	DataVisualizer	4dbb4dd6089fa89c
+3	210	1761583315300772390	DataVisualizer_autogen/timestamp	54be55028ee730d5
+3	210	1761583315300772390	DataVisualizer_autogen/mocs_compilation.cpp	54be55028ee730d5
+3	210	1761583315300772390	/home/ib/codePractice/Real-Time-Data-Visualization/build/DataVisualizer_autogen/timestamp	54be55028ee730d5
+3	210	1761583315300772390	/home/ib/codePractice/Real-Time-Data-Visualization/build/DataVisualizer_autogen/mocs_compilation.cpp	54be55028ee730d5
+211	1665	1761583315313189439	CMakeFiles/DataVisualizer.dir/DataVisualizer_autogen/mocs_compilation.cpp.o	5650b957789d89e1

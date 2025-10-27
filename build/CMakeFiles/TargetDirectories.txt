@@ -1,0 +1,5 @@
+/home/ib/codePractice/Real-Time-Data-Visualization/build/CMakeFiles/DataVisualizer.dir
+/home/ib/codePractice/Real-Time-Data-Visualization/build/CMakeFiles/edit_cache.dir
+/home/ib/codePractice/Real-Time-Data-Visualization/build/CMakeFiles/rebuild_cache.dir
+/home/ib/codePractice/Real-Time-Data-Visualization/build/CMakeFiles/DataVisualizer_autogen_timestamp_deps.dir
+/home/ib/codePractice/Real-Time-Data-Visualization/build/CMakeFiles/DataVisualizer_autogen.dir

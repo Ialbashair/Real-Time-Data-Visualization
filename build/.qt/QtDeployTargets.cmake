@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_DataVisualizer_FILE /home/ib/codePractice/Real-Time-Data-Visualization/build/DataVisualizer)
+set(__QT_DEPLOY_TARGET_DataVisualizer_TYPE EXECUTABLE)
