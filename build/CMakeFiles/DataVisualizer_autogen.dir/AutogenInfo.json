@@ -422,6 +422,12 @@
 			"MU",
 			"EWIEGA46WW/moc_DataGenerator.cpp",
 			null
+		],
+		[
+			"/home/ib/codePractice/Real-Time-Data-Visualization/MainWindow.h",
+			"MU",
+			"EWIEGA46WW/moc_MainWindow.cpp",
+			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
@@ -445,6 +451,7 @@
 	],
 	"MOC_INCLUDES" : 
 	[
+		"/home/ib/codePractice/Real-Time-Data-Visualization",
 		"/usr/include/qt6/QtCore",
 		"/usr/include/qt6",
 		"/usr/lib/qt6/mkspecs/linux-g++",
@@ -496,6 +503,11 @@
 	[
 		[
 			"/home/ib/codePractice/Real-Time-Data-Visualization/DataGenerator.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/ib/codePractice/Real-Time-Data-Visualization/MainWindow.cpp",
 			"MU",
 			null
 		],

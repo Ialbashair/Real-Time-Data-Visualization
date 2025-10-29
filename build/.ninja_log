@@ -1,9 +1,10 @@
-# ninja log v6
-211	1788	1761583315313523376	CMakeFiles/DataVisualizer.dir/DataGenerator.cpp.o	755e5bf8fb3e2a43
-211	2217	1761583315313373955	CMakeFiles/DataVisualizer.dir/main.cpp.o	db18031e90c6b637
-2218	2550	1761583317318773579	DataVisualizer	4dbb4dd6089fa89c
-3	210	1761583315300772390	DataVisualizer_autogen/timestamp	54be55028ee730d5
-3	210	1761583315300772390	DataVisualizer_autogen/mocs_compilation.cpp	54be55028ee730d5
-3	210	1761583315300772390	/home/ib/codePractice/Real-Time-Data-Visualization/build/DataVisualizer_autogen/timestamp	54be55028ee730d5
-3	210	1761583315300772390	/home/ib/codePractice/Real-Time-Data-Visualization/build/DataVisualizer_autogen/mocs_compilation.cpp	54be55028ee730d5
-211	1665	1761583315313189439	CMakeFiles/DataVisualizer.dir/DataVisualizer_autogen/mocs_compilation.cpp.o	5650b957789d89e1
+# ninja log v7
+4	35	1761678176723991706	DataVisualizer_autogen/timestamp	e0ff36fc9db6e747
+4	35	1761678176723991706	DataVisualizer_autogen/mocs_compilation.cpp	e0ff36fc9db6e747
+4	35	1761678176723991706	/home/ib/codePractice/Real-Time-Data-Visualization/build/DataVisualizer_autogen/timestamp	e0ff36fc9db6e747
+4	35	1761678176723991706	/home/ib/codePractice/Real-Time-Data-Visualization/build/DataVisualizer_autogen/mocs_compilation.cpp	e0ff36fc9db6e747
+244	1848	1761678049825870414	CMakeFiles/DataVisualizer.dir/DataGenerator.cpp.o	2f2d1f1a4c1756d2
+244	2687	1761678049825711505	CMakeFiles/DataVisualizer.dir/main.cpp.o	9ea70b7c2bb32c5a
+244	2776	1761678049825525575	CMakeFiles/DataVisualizer.dir/DataVisualizer_autogen/mocs_compilation.cpp.o	bade95b91a6cc27b
+35	2389	1761678176756615601	CMakeFiles/DataVisualizer.dir/MainWindow.cpp.o	37e37e623c1bf3e7
+2389	2737	1761678179108996055	DataVisualizer	c46cacb49ca296dd
